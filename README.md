@@ -1,1 +1,1 @@
-https://github.com/A1Kleba/posmotri-v-okno-fd.git 
+https://github.com/A1Kleba/posmotri-v-okno-fd
